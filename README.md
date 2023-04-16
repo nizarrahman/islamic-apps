@@ -1,4 +1,4 @@
-# islamic-app
+# islamic-apps
 
 Islamic web application is a website that has several features such as the Quran, prayer schedules various locations in indonesia, Asmaul Husna, Daily Prayers and Tahlil Readings. I created this simple website using Vue.JS and Tailwind CSS as well as utilizing public APIs
 
